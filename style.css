@@ -69,7 +69,7 @@
     padding: 20px;
     margin-top: 20px;
     color: #ffffff;
-    background-color: #022231;
+    background-color:var(--darkblue);
     text-align: center;
 }
 footer p{
